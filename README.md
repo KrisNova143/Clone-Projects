@@ -30,7 +30,7 @@ CSS3 – for styling and layout
 
 📌 How to Run
 1. Clone this repository:
-git clone https://github.com/<your-username>/amazon-clone.git
+git clone (https://github.com/<your-username>/amazon-clone.git)
 2. Open index.html in your browser.
 
 📬 Contact
