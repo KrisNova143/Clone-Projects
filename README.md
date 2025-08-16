@@ -3,7 +3,7 @@
 <br>
 This is a front-end clone of Amazon's homepage built using HTML & CSS.
 The project replicates the look and feel of Amazon’s interface with a focus on layout, design, and responsiveness.
-<br>
+<br><br>
 🚀 Features
 <br>
 * Amazon-like header with logo, search bar, and navigation
