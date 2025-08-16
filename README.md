@@ -18,7 +18,7 @@ HTML5 – for the structure
 CSS3 – for styling and layout
 
 📌 How to Run
-1. Clone this repository: git clone https://github.com/<your-username>/amazon-clone.git
+1. Clone this repository: git clone https://github.com/KrisNova143/Clone-Projects.git
 
 2. Open (index.html) in your browser.
 <hr>
