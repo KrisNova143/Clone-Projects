@@ -12,16 +12,6 @@ The project replicates the look and feel of Amazon’s interface with a focus on
 * Fully responsive layout (works on desktop & mobile)
 * Organized structure with external CSS
 <br>
-📂 Project Structure
-<br>
-amazon-clone/
-│── index.html
-│── style.css
-│── /images
-     ├── logo.png
-     ├── product1.jpg
-     ├── product2.jpg
-     └── ...
 
 ⚙️ Technologies Used
 
