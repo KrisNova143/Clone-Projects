@@ -6,10 +6,10 @@ The project replicates the look and feel of Amazon’s interface with a focus on
 <hr>
 🚀 Features
 <br>
-* Amazon-like header with logo, search bar, and navigation
-* Product showcase section
-* Footer with multiple sections
-* Organized structure with external CSS
+*Amazon-like header with logo, search bar, and navigation
+*Product showcase section
+*Footer with multiple sections
+*Organized structure with external CSS
 <hr>
 <br>
 ⚙️ Technologies Used
