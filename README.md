@@ -32,3 +32,6 @@ CSS3 – for styling and layout
 1. Clone this repository:
 git clone https://github.com/<your-username>/amazon-clone.git
 2. Open index.html in your browser.
+
+📬 Contact
+Created by Ramkrishna Bose – feel free to reach out!
