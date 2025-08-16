@@ -9,7 +9,6 @@ The project replicates the look and feel of Amazon’s interface with a focus on
 * Amazon-like header with logo, search bar, and navigation
 * Product showcase section
 * Footer with multiple sections
-* Fully responsive layout (works on desktop & mobile)
 * Organized structure with external CSS
 <br>
 
